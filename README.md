@@ -3,7 +3,8 @@
 I have created a dashboard, an interactive visualization and insights about the Wine Quality dataset. With the help of the dashboard, we can clearly understand the relationship between various chemical properties that affect the quality ratings of the wines.
 
 <br/>
-**A little bit about the Wine dataset:** <br/>
+
+**A little bit about the Wine dataset**: <br/>
 
 I have used the Wine Quality dataset, which contains chemical properties of the red and white wines with varying qualities. The dataset consists of various attributes, like:
 1. Fixed acidity
